@@ -1,3 +1,5 @@
+//original notes from initial creation of mixins
+
 /*make flexbox work in older browsers*/
 @mixin flex-box() {
 	display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
